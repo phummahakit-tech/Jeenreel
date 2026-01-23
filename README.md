@@ -199,10 +199,10 @@ Private / Internal Project
 
 ## 💳 Price
 
-Project = 20,000 บาท
-DramaWave API = 5,000 บาท
-GoodShort = 5,000 บาท
-DramaBox API = 4,000 บาท
-FlickReels API = 4,000 บาท
-Melolo API = 4,000 บาท
-NetShort API = 4,000 บาท
+- Project = 20,000 บาท
+- DramaWave API = 5,000 บาท
+- GoodShort = 5,000 บาท
+- DramaBox API = 4,000 บาท
+- FlickReels API = 4,000 บาท
+- Melolo API = 4,000 บาท
+- NetShort API = 4,000 บาท
