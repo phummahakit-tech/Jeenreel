@@ -1,4 +1,3 @@
-<img width="483" height="708" alt="image" src="https://github.com/user-attachments/assets/0752db21-e285-4bd2-ab1b-81454752fa01" />
 # 🎬 SeriesHub (JeenReel)
 
 แพลตฟอร์มดูซีรี่ย์ออนไลน์แบบ Full Stack\
@@ -189,6 +188,17 @@ docker compose up -d --build
 -   Prisma ต่อ DB ไม่ได้ → ตรวจ DATABASE_URL
 -   เข้า admin ไม่ได้ → ตรวจ role
 -   Video ไม่เล่น → ตรวจ HLS URL
+
+------------------------------------------------------------------------
+
+## 🖥️ Demo
+<img width="482" height="707" alt="image" src="https://github.com/user-attachments/assets/2105d381-b8d7-4d54-80bc-194d919e0d3c" />
+<img width="485" height="708" alt="image" src="https://github.com/user-attachments/assets/0c1f5ed2-f5ea-479d-8edf-858b1159e59f" />
+<img width="483" height="707" alt="image" src="https://github.com/user-attachments/assets/f5d94802-7e71-43c2-abe3-4312c4f9662f" />
+<img width="480" height="707" alt="image" src="https://github.com/user-attachments/assets/75eb7334-3af6-47a9-9454-8d31d8fdcc6b" />
+<img width="1577" height="733" alt="image" src="https://github.com/user-attachments/assets/2cdbe40f-c8c7-4d9e-b69e-03ff61d93141" />
+<img width="483" height="707" alt="image" src="https://github.com/user-attachments/assets/3d8d9e03-de6a-4d69-bb8a-77aa15074302" />
+<img width="1570" height="736" alt="image" src="https://github.com/user-attachments/assets/fcd95a0a-977d-4ca3-ba84-31c442f56b7a" />
 
 ------------------------------------------------------------------------
 
