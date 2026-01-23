@@ -1,3 +1,4 @@
+<img width="483" height="708" alt="image" src="https://github.com/user-attachments/assets/0752db21-e285-4bd2-ab1b-81454752fa01" />
 # 🎬 SeriesHub (JeenReel)
 
 แพลตฟอร์มดูซีรี่ย์ออนไลน์แบบ Full Stack\
