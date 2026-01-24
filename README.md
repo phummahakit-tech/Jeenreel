@@ -213,6 +213,7 @@ Private / Internal Project
 
 - Project = 20,000 บาท
 - DramaWave API = 5,000 บาท
+- ReelShort API = 5,000 บาท
 - GoodShort API = 5,000 บาท
 - StardustTV API = 5,000 บาท
 - DramaBox API = 4,000 บาท
