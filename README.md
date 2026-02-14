@@ -212,7 +212,9 @@ Private / Internal Project
 ## 💳 Price
 
 - Project = 20,000 บาท
+- BiliTV API = 6,000 บาท
 - DramaWave API = 5,000 บาท
+- ShortMax API = 5,000 บาท
 - ReelShort API = 5,000 บาท
 - GoodShort API = 5,000 บาท
 - StardustTV API = 5,000 บาท
@@ -220,3 +222,5 @@ Private / Internal Project
 - FlickReels API = 4,000 บาท
 - Melolo API = 4,000 บาท
 - NetShort API = 4,000 บาท
+- DotDrama API = 4,000 บาท
+- iDrama API = 4,000 บาท
