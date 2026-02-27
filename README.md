@@ -223,4 +223,4 @@ Private / Internal Project
 - NetShort API = 3,000 บาท
 - DotDrama API = 3,000 บาท
 - iDrama API = 3,000 บาท
-- DramaBox API = 2,500 บาท
+- DramaBox API = 3,000 บาท
